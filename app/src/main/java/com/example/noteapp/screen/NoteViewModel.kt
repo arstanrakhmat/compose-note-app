@@ -2,7 +2,7 @@ package com.example.noteapp.screen
 
 import androidx.compose.runtime.mutableStateListOf
 import androidx.lifecycle.ViewModel
-import com.example.noteapp.data.Note
+import com.example.noteapp.model.Note
 import com.example.noteapp.data.NoteDataSource
 
 class NoteViewModel : ViewModel() {
